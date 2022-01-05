@@ -1,0 +1,22 @@
+.center{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* color: #a9a9a9; */
+    margin:0;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+}
+
+
+.Pokedesk-winner {
+	color: #4caf50;
+}
+
+.Pokedesk-loser {
+	color: #e91e63;
+}
